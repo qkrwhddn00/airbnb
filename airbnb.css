@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.text_tag {
+    background-color: #eee;
+}
+.text_tag a {
+    color: black;
+}
+.header_text {
+    color: black;
+    font-weight: bold;
+}
+.main_header {
+    display: flex;
+    flex-direction: row;
+}
+.header_nav {
+    display: flex;
+    flex-direction: row;
+}
+.room_type {
+    display: flex;
+    flex-direction: row;
+}
