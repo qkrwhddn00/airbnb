@@ -4,6 +4,8 @@
 }
 .text_tag {
     background-color: #eee;
+    text-align: center;
+    padding: 18px 0;
 }
 .text_tag a {
     color: black;
@@ -11,16 +13,162 @@
 .header_text {
     color: black;
     font-weight: bold;
+    height: 36px;
 }
 .main_header {
     display: flex;
-    flex-direction: row;
+    
+    padding: 5px 80px;
+    border-bottom: 1px solid;
+    height: 80px;
+    align-items: center;
+}
+.airbnb_logo {
+    width: 33.3%;
+}
+/* .convenience_button {
+    display: flex;
+    gap: 10px;
+    border: 0.5px solid;
+    border-radius: 40px;
+    height: 46px;
+    text-align: left;
+}
+.convenience_button button {
+    width: 88px;
+    height: 46px;
+    border: none;
+    border-radius: 40px;
+    background-color: white;
+} */
+.convenience_buttonbox {
+    width: 33.3%;
+
+}
+.convenience_button {
+    border: 1px solid;
+    border-radius: 40px;
+    text-align: center;
+    height: 46px;
+
+}
+.convenience_button button {
+  background-color: white;
+  margin: 10px 0;
+  box-sizing: border-box;
+}
+.bt1 {
+    border: none;
+    padding:0 16px;
+    margin-right: -4px;
+    width: 88px;
+    height: 22px;
+}
+.bt2 {
+    border-top: none;
+    border-bottom: none;
+    margin-left: -3px;
+    width: 88px;
+    height: 22px;
+}
+.bt3 {
+    border: none;
+    margin-left: -7px;
+    width: 88px;
+    height: 22px;
 }
 .header_nav {
+    width: 33.3%;
     display: flex;
     flex-direction: row;
 }
 .room_type {
     display: flex;
     flex-direction: row;
+    padding: 10px 80px;
+}
+.room {
+    display: flex;
+    flex-direction: column;
+    margin: 5px 30px;
+    align-items: center;
+    padding: 4px 0;
+    height: 48px;
+}
+.fillter_box {
+    border: 1px solid;
+}
+.room-info {
+    min-width: 500px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 80px;
+    flex-wrap: wrap;
+}
+.room_img {
+    width: 292px;
+    height: 267.89px;
+}
+.room-item {
+    margin-right: 70px;
+    width: 282px;
+    height: 369.891px;   
+    margin-top: 20px;
+}
+.room-item .name_grade {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-weight: 900;
+    margin-top: 10px;
+}
+.room_img {
+    border-radius: 15px;
+}
+.room-item .room_price {
+    margin-top: 7px;
+    font-weight: bold;
+}
+.main_bottom {
+    margin-top: 56px;
+    margin-bottom: 50px;
+}
+.main_text {
+    font-size: 1.125rem;
+    font-weight: 600;
+    text-align: center;
+}
+.main_btbox {
+    justify-content: center; 
+    margin-top: 16px;
+    display: flex;
+    width: 100%;
+    height: 35px;
+}
+.main_bt{
+    text-align: center;
+    padding: 4px 14px;
+    background-color: #222222;
+    border: none;
+    border-radius: 4px;
+    color: white;
+}
+.footer {
+    background-color: #eee;
+}
+.bottom_box {
+    padding: 0 80px;
+}
+.category_tittle {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.category {
+    display: flex;
+}
+.category button {
+    border: none;
+}
+.category p {
+    margin: 10px 20px 10px 0;
 }
