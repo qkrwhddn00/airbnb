@@ -7,7 +7,7 @@ var roomsData = {
             "grade": "★4.86",
             "info": "산 및 정원 전망",
             "date": "1월 18일~23일",
-            "price": "₩194000/박"
+            "price": "₩194,000/박"
         },
         {
             "id": "1",
@@ -16,7 +16,7 @@ var roomsData = {
             "grade": "★NEW",
             "info": "강변 전망",
             "date": "1월 1일~6일",
-            "price": "₩170948/박"
+            "price": "₩170,948/박"
         },
         {
             "id": "2",
@@ -25,7 +25,7 @@ var roomsData = {
             "grade": "★4.94",
             "info": "호수 및 강전만",
             "date": "1월 15일~20일",
-            "price": "₩178024/박"
+            "price": "₩178,024/박"
         },
         {
             "id": "3",
@@ -34,7 +34,7 @@ var roomsData = {
             "grade": "★new",
             "info": "강변 전망",
             "date": "1월 1일~6일",
-            "price": "₩170948/박"
+            "price": "₩170,948/박"
         },
         {
             "id": "4",
@@ -43,7 +43,7 @@ var roomsData = {
             "grade": "★new",
             "info": "강변 전망",
             "date": "1월 1일~6일",
-            "price": "₩170948/박"
+            "price": "₩170,948/박"
         },
         {
             "id": "5",
@@ -52,7 +52,7 @@ var roomsData = {
             "grade": "★4.86",
             "info": "산 및 정원 전망",
             "date": "1월 18일~23일",
-            "price": "₩194000/박"
+            "price": "₩194,000/박"
         },
         {
             "id": "6",
@@ -61,7 +61,7 @@ var roomsData = {
             "grade": "★new",
             "info": "강변 전망",
             "date": "1월 1일~6일",
-            "price": "₩170948/박"
+            "price": "₩170,948/박"
         },
         {
             "id": "7",
@@ -70,7 +70,7 @@ var roomsData = {
             "grade": "★new",
             "info": "강변 전망",
             "date": "1월 1일~6일",
-            "price": "₩170948/박"
+            "price": "₩170,948/박"
         },
         {
             "id": "8",
@@ -79,7 +79,7 @@ var roomsData = {
             "grade": "★new",
             "info": "강변 전망",
             "date": "1월 1일~6일",
-            "price": "₩170948/박"
+            "price": "₩170,948/박"
         },
         {
             "id": "9",
@@ -88,7 +88,7 @@ var roomsData = {
             "grade": "★new",
             "info": "강변 전망",
             "date": "1월 1일~6일",
-            "price": "₩170948/박"
+            "price": "₩170,948/박"
         },
         {
             "id": "10",
@@ -97,7 +97,7 @@ var roomsData = {
             "grade": "★4.86",
             "info": "산 및 정원 전망",
             "date": "1월 18일~23일",
-            "price": "₩194000/박"
+            "price": "₩194,000/박"
         },
         {
             "id": "11",
@@ -106,7 +106,7 @@ var roomsData = {
             "grade": "★new",
             "info": "강변 전망",
             "date": "1월 1일~6일",
-            "price": "₩170948/박"
+            "price": "₩170,948/박"
         },
         {
             "id": "12",
@@ -115,7 +115,7 @@ var roomsData = {
             "grade": "★new",
             "info": "강변 전망",
             "date": "1월 1일~6일",
-            "price": "₩170948/박"
+            "price": "₩170,948/박"
         },
         {
             "id": "13",
@@ -124,7 +124,7 @@ var roomsData = {
             "grade": "★new",
             "info": "강변 전망",
             "date": "1월 1일~6일",
-            "price": "₩170948/박"
+            "price": "₩170,948/박"
         },
         {
             "id": "14",
@@ -133,7 +133,7 @@ var roomsData = {
             "grade": "★new",
             "info": "강변 전망",
             "date": "1월 1일~6일",
-            "price": "₩170948/박"
+            "price": "₩170,948/박"
         },
         {
             "id": "15",
@@ -142,7 +142,7 @@ var roomsData = {
             "grade": "★4.86",
             "info": "산 및 정원 전망",
             "date": "1월 18일~23일",
-            "price": "₩194000/박"
+            "price": "₩194,000/박"
         },
         {
             "id": "16",
@@ -151,7 +151,7 @@ var roomsData = {
             "grade": "★new",
             "info": "강변 전망",
             "date": "1월 1일~6일",
-            "price": "₩170948/박"
+            "price": "₩170,948/박"
         },
         {
             "id": "17",
@@ -160,7 +160,7 @@ var roomsData = {
             "grade": "★new",
             "info": "강변 전망",
             "date": "1월 1일~6일",
-            "price": "₩170948/박"
+            "price": "₩170,948/박"
         },
         {
             "id": "18",
@@ -169,7 +169,7 @@ var roomsData = {
             "grade": "★new",
             "info": "강변 전망",
             "date": "1월 1일~6일",
-            "price": "₩170948/박"
+            "price": "₩170,948/박"
         },
         {
             "id": "19",
@@ -178,7 +178,7 @@ var roomsData = {
             "grade": "★new",
             "info": "강변 전망",
             "date": "1월 1일~6일",
-            "price": "₩170948/박"
+            "price": "₩170,948/박"
         },
     ]
 };
